@@ -1,0 +1,18 @@
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe.config
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.pdb
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csprojResolveAssemblyReference.cache
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.Properties.Resources.resources
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.GenerateResource.Cache
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.exe
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.pdb
+c:\users\reverdan.sparinger\documents\visual studio 2012\Projects\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.frmPrincipal.resources
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe.config
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.exe
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.pdb
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.pdb
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.frmPrincipal.resources
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.GenerateResource.Cache
